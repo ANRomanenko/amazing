@@ -8,4 +8,5 @@ disable = missing-function-docstring,
         invalid-str-returned,
         no-member,
         unused-import,
-        missing-final-newline
+        missing-final-newline,
+        invalid-name
