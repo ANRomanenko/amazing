@@ -9,4 +9,5 @@ disable = missing-function-docstring,
         no-member,
         unused-import,
         missing-final-newline,
-        invalid-name
+        invalid-name,
+        missing-timeout
