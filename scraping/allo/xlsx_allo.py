@@ -1,11 +1,9 @@
 import xlsxwriter
 from allo import array
 
-
 def write(parametr):
     book = xlsxwriter.Workbook(r"C:\Users\s.fedoruk\Desktop\amazing\scraping\allo\all.xlsx")
-    page = book.add_worksheet("ноутбуки")
-
+    page = book.add_worksheet("ноуты")
 
     row = 0
     column = 0
