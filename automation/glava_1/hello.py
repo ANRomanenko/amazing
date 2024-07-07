@@ -13,3 +13,7 @@ print("You will be " + str(int(myAge) + 1) + " in a year.")
 print()
 
 print(len("hello"))
+
+print("I am " + str(29) + " years old.")
+
+print("You will be " + str(int("4") + 1) + " in a year.")

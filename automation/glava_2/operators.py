@@ -1,11 +1,11 @@
 eggCount = 42
 eggCount = eggCount <= 42
 print(eggCount)
-
+print()
 # Булевые операторы and, or, not
 
-print(True and True)
-print(True and False)
+print(True and True) # True
+print(True and False) # False
 print()
 print(True or False)
 print(False or True)
