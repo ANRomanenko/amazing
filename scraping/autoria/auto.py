@@ -24,7 +24,7 @@ def url():
         soup = BeautifulSoup(response.text, "lxml")
 
         data = soup.find_all("div", class_="content-bar")
-        
+   
         for i in data:
             # title = i.find("div", class_="item ticket-title").get_text(strip=True).replace("Fiesta", "Fiesta ") # Обращаемся к переменной data которая содержит уже нашу карточку товара
             # price = i.find("span", class_="bold size22 green").get_text(strip=True)
