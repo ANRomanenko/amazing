@@ -13,7 +13,7 @@ def get_first_news():
     soup = BeautifulSoup(r.text, "lxml")
     data = soup.find_all('div', class_='row-result')
     
-    new_dict = {} # создаём словатрь для наших статей и на каждей итерации будем его заполнять
+    new_dict = {} # создаём словатрь для наших статей и на каждой итерации будем его заполнять
 
     for article in data:
         article_title = article.find('div', class_='title').get_text(strip=True)
