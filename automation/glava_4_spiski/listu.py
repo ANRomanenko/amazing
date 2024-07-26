@@ -43,7 +43,8 @@ spam = ['cat', 'bat', 'rat', 'elephant']
 print(spam[:2])
 print(spam[1:])
 print(spam[:])
-print()
+print(sorted(spam[3:]))
+print('Срез')
 
 # Получение длины списка с помощью функции len()
 spam = ['cat', 'dog', 'moose']
@@ -74,7 +75,7 @@ print()
 spam = ['cat', 'bat', 'rat', 'elephant']
 del spam[2]
 print(spam)
-del spam[2]
+del spam[int(2.0)]
 print(spam)
 
 
