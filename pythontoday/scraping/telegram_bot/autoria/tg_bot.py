@@ -101,10 +101,12 @@ async def news_every_minute():
                     f"{v['article_gearbox']}\n" \
                     f"{hlink(v['article_title'], v['article_url'])}"
                 
-                await bot.send_message(user_id, news, disable_notification=False) # отправляем ответ пользователю
+                for chat_id in user_id:
+                    await bot.send_message(chat_id, news, disable_notification=False) # отправляем ответ пользователю
 
         else:
-            await bot.send_message(user_id, "Пока нет свежих новостей...", disable_notification=True)
+            for chat_id in user_id:
+                await bot.send_message(chat_id, "Пока нет свежих новостей...", disable_notification=True)
 
         await asyncio.sleep(180)
 

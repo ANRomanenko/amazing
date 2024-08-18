@@ -668,5 +668,935 @@
                   "article_fuel": "Дизель, 2 л.",
                   "article_gearbox": "Ручна / Механіка",
                   "article_url": "https://auto.ria.com/uk/auto_chevrolet_captiva_36944733.html"
+         },
+         "36628002": {
+                  "article_date_timestamp": 1723894654.0,
+                  "article_title": "Mercedes-Benz GLE-Class2019",
+                  "article_price": "56 500$•2 341 925грн",
+                  "article_milage": "95 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 1.95 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_gle_class_36628002.html"
+         },
+         "37054773": {
+                  "article_date_timestamp": 1723896318.0,
+                  "article_title": "Toyota Land Cruiser Prado2021",
+                  "article_price": "51 900$•2 151 255грн",
+                  "article_milage": "44 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 3.96 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_toyota_land_cruiser_prado_37054773.html"
+         },
+         "37054721": {
+                  "article_date_timestamp": 1723895741.0,
+                  "article_title": "Tesla Model 32020",
+                  "article_price": "22 500$•932 850грн",
+                  "article_milage": "100 тис. км",
+                  "article_city": "Рівне",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_tesla_model_3_37054721.html"
+         },
+         "37054637": {
+                  "article_date_timestamp": 1723894770.0,
+                  "article_title": "Toyota Corolla2017",
+                  "article_price": "15 800$•654 910грн",
+                  "article_milage": "48 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 1.6 л.",
+                  "article_gearbox": "Варіатор",
+                  "article_url": "https://auto.ria.com/uk/auto_toyota_corolla_37054637.html"
+         },
+         "37054402": {
+                  "article_date_timestamp": 1723896605.0,
+                  "article_title": "Hyundai Sonata2014",
+                  "article_price": "9 200$•381 340грн",
+                  "article_milage": "172 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Газ, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_hyundai_sonata_37054402.html"
+         },
+         "37054665": {
+                  "article_date_timestamp": 1723895164.0,
+                  "article_title": "Nissan Leaf2021",
+                  "article_price": "13 350$•553 491грн",
+                  "article_milage": "25 тис. км",
+                  "article_city": "Самбір",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_nissan_leaf_37054665.html"
+         },
+         "35937841": {
+                  "article_date_timestamp": 1723896005.0,
+                  "article_title": "Volkswagen Touareg2015",
+                  "article_price": "28 555$•1 183 890грн",
+                  "article_milage": "238 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Дизель, 3 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_touareg_35937841.html"
+         },
+         "37054686": {
+                  "article_date_timestamp": 1723895851.0,
+                  "article_title": "Audi Q72017",
+                  "article_price": "39 900$•1 654 254грн",
+                  "article_milage": "210 тис. км",
+                  "article_city": "Рівне",
+                  "article_fuel": "Дизель, 2.97 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_q7_37054686.html"
+         },
+         "36464930": {
+                  "article_date_timestamp": 1723894708.0,
+                  "article_title": "Porsche Cayenne2016",
+                  "article_price": "39 999$•1 657 958грн",
+                  "article_milage": "169 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 2.97 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_porsche_cayenne_36464930.html"
+         },
+         "36721364": {
+                  "article_date_timestamp": 1723896214.0,
+                  "article_title": "Lexus RX2011",
+                  "article_price": "21 500$•891 390грн",
+                  "article_milage": "119 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 3.46 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_lexus_rx_36721364.html"
+         },
+         "37054628": {
+                  "article_date_timestamp": 1723895102.0,
+                  "article_title": "Kia Optima2016",
+                  "article_price": "10 500$•435 330грн",
+                  "article_milage": "112 тис. км",
+                  "article_city": "Запоріжжя",
+                  "article_fuel": "Бензин, 2.36 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_kia_optima_37054628.html"
+         },
+         "37028682": {
+                  "article_date_timestamp": 1723897049.0,
+                  "article_title": "Volkswagen Caddy2013",
+                  "article_price": "8 800$•364 760грн",
+                  "article_milage": "260 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 1.6 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_caddy_37028682.html"
+         },
+         "34619161": {
+                  "article_date_timestamp": 1723896750.0,
+                  "article_title": "Mercedes-Benz E-Class2009",
+                  "article_price": "19 700$•816 565грн",
+                  "article_milage": "170 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Бензин, 5.5 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_e_class_34619161.html"
+         },
+         "36903368": {
+                  "article_date_timestamp": 1723896725.0,
+                  "article_title": "Mercedes-Benz E-Class2016",
+                  "article_price": "29 900$•1 239 355грн",
+                  "article_milage": "183 тис. км",
+                  "article_city": "Ужгород",
+                  "article_fuel": "Дизель, 1.95 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_e_class_36903368.html"
+         },
+         "35194113": {
+                  "article_date_timestamp": 1723896394.0,
+                  "article_title": "Honda CR-V2022",
+                  "article_price": "29 700$•1 231 362грн",
+                  "article_milage": "39 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Гібрид (HEV), 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_honda_cr_v_35194113.html"
+         },
+         "37054736": {
+                  "article_date_timestamp": 1723896004.0,
+                  "article_title": "Peugeot 30082020",
+                  "article_price": "25 300$•1 048 938грн",
+                  "article_milage": "86 тис. км",
+                  "article_city": "Тернопіль",
+                  "article_fuel": "Дизель, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_peugeot_3008_37054736.html"
+         },
+         "36489613": {
+                  "article_date_timestamp": 1723896124.0,
+                  "article_title": "Volkswagen Golf2015",
+                  "article_price": "14 333$•594 246грн",
+                  "article_milage": "189 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Дизель, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_golf_36489613.html"
+         },
+         "36940211": {
+                  "article_date_timestamp": 1723895649.0,
+                  "article_title": "Mercedes-Benz Vito2019",
+                  "article_price": "17 800$•737 988грн",
+                  "article_milage": "286 тис. км",
+                  "article_city": "Трускавець",
+                  "article_fuel": "Дизель, 2.2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_vito_36940211.html"
+         },
+         "37041245": {
+                  "article_date_timestamp": 1723897495.0,
+                  "article_title": "Honda Accord2013",
+                  "article_price": "15 450$•640 402грн",
+                  "article_milage": "157 тис. км",
+                  "article_city": "Бориспіль",
+                  "article_fuel": "Бензин, 2.4 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_honda_accord_37041245.html"
+         },
+         "37036433": {
+                  "article_date_timestamp": 1723894449.0,
+                  "article_title": "Skoda Octavia2012",
+                  "article_price": "6 600$•273 570грн",
+                  "article_milage": "323 тис. км",
+                  "article_city": "Чернівці",
+                  "article_fuel": "Дизель, 1.97 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_skoda_octavia_37036433.html"
+         },
+         "36945133": {
+                  "article_date_timestamp": 1723898166.0,
+                  "article_title": "Renault Trafic2019",
+                  "article_price": "18 950$•785 477грн",
+                  "article_milage": "184 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Дизель, 1.6 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_renault_trafic_36945133.html"
+         },
+         "35878582": {
+                  "article_date_timestamp": 1723898332.0,
+                  "article_title": "Skoda Superb2017",
+                  "article_price": "15 500$•642 475грн",
+                  "article_milage": "192 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 1.6 л.",
+                  "article_gearbox": "Не вказано",
+                  "article_url": "https://auto.ria.com/uk/auto_skoda_superb_35878582.html"
+         },
+         "37054923": {
+                  "article_date_timestamp": 1723897927.0,
+                  "article_title": "Volkswagen Tiguan2021",
+                  "article_price": "38 000$•1 575 100грн",
+                  "article_milage": "67 тис. км",
+                  "article_city": "Кагарлик",
+                  "article_fuel": "Бензин, 1.98 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_tiguan_37054923.html"
+         },
+         "37054852": {
+                  "article_date_timestamp": 1723897215.0,
+                  "article_title": "Lexus RX2010",
+                  "article_price": "17 350$•719 157грн",
+                  "article_milage": "198 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Газ пропан-бутан / Бензин, 3.5 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_lexus_rx_37054852.html"
+         },
+         "37054958": {
+                  "article_date_timestamp": 1723898329.0,
+                  "article_title": "Skoda Octavia2013",
+                  "article_price": "10 700$•443 515грн",
+                  "article_milage": "264 тис. км",
+                  "article_city": "Обухів",
+                  "article_fuel": "Дизель, 1.98 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_skoda_octavia_37054958.html"
+         },
+         "37053952": {
+                  "article_date_timestamp": 1723898647.0,
+                  "article_title": "BMW X52019",
+                  "article_price": "65 900$•2 731 555грн",
+                  "article_milage": "74 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 3 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_x5_37053952.html"
+         },
+         "36963532": {
+                  "article_date_timestamp": 1723899365.0,
+                  "article_title": "BMW 5 Series2022",
+                  "article_price": "46 500$•1 927 425грн",
+                  "article_milage": "32 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_5_series_36963532.html"
+         },
+         "36269777": {
+                  "article_date_timestamp": 1723899238.0,
+                  "article_title": "Mercedes-Benz GL-Class2006",
+                  "article_price": "10 900$•451 805грн",
+                  "article_milage": "239 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 4.66 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_gl_class_36269777.html"
+         },
+         "36908738": {
+                  "article_date_timestamp": 1723899068.0,
+                  "article_title": "Lexus ES2014",
+                  "article_price": "19 450$•806 202грн",
+                  "article_milage": "124 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Гібрид (HEV), 2.5 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_lexus_es_36908738.html"
+         },
+         "37056628": {
+                  "article_date_timestamp": 1723919794.0,
+                  "article_title": "Volkswagen Golf2015",
+                  "article_price": "12 400$•513 980грн",
+                  "article_milage": "205 тис. км",
+                  "article_city": "Покровське",
+                  "article_fuel": "Дизель, 1.6 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_golf_37056628.html"
+         },
+         "37056608": {
+                  "article_date_timestamp": 1723920128.0,
+                  "article_title": "Audi Q72020",
+                  "article_price": "58 700$•2 433 115грн",
+                  "article_milage": "149 тис. км",
+                  "article_city": "Рівне",
+                  "article_fuel": "Дизель, 2.97 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_q7_37056608.html"
+         },
+         "37056670": {
+                  "article_date_timestamp": 1723920606.0,
+                  "article_title": "Audi Q72015",
+                  "article_price": "24 900$•1 032 105грн",
+                  "article_milage": "189 тис. км",
+                  "article_city": "Галич",
+                  "article_fuel": "Бензин, 3 л.",
+                  "article_gearbox": "Типтронік",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_q7_37056670.html"
+         },
+         "36347357": {
+                  "article_date_timestamp": 1723922403.0,
+                  "article_title": "Volkswagen e-Golf2015",
+                  "article_price": "10 300$•426 935грн",
+                  "article_milage": "116 тис. км",
+                  "article_city": "Рівне",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Варіатор",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_e_golf_36347357.html"
+         },
+         "36450913": {
+                  "article_date_timestamp": 1723921415.0,
+                  "article_title": "Tesla Model 32021",
+                  "article_price": "19 999$•828 958грн",
+                  "article_milage": "28 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_tesla_model_3_36450913.html"
+         },
+         "37056786": {
+                  "article_date_timestamp": 1723922344.0,
+                  "article_title": "Kia Niro2017",
+                  "article_price": "16 500$•683 925грн",
+                  "article_milage": "120 тис. км",
+                  "article_city": "Чорноморськ (Іллічівськ)",
+                  "article_fuel": "Гібрид (HEV), 1.58 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_kia_niro_37056786.html"
+         },
+         "36233884": {
+                  "article_date_timestamp": 1723922295.0,
+                  "article_title": "Ford Mustang2015",
+                  "article_price": "14 000$•580 300грн",
+                  "article_milage": "144 тис. км",
+                  "article_city": "Запоріжжя",
+                  "article_fuel": "Бензин, 3.73 л.",
+                  "article_gearbox": "Не вказано",
+                  "article_url": "https://auto.ria.com/uk/auto_ford_mustang_36233884.html"
+         },
+         "37056725": {
+                  "article_date_timestamp": 1723921715.0,
+                  "article_title": "Opel Corsa2021",
+                  "article_price": "17 200$•712 940грн",
+                  "article_milage": "47 тис. км",
+                  "article_city": "Долина",
+                  "article_fuel": "Бензин, 1.2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_opel_corsa_37056725.html"
+         },
+         "37056723": {
+                  "article_date_timestamp": 1723921924.0,
+                  "article_title": "Mazda 52008",
+                  "article_price": "6 500$•269 425грн",
+                  "article_milage": "203 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Дизель, 2 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_mazda_5_37056723.html"
+         },
+         "35571221": {
+                  "article_date_timestamp": 1723919887.0,
+                  "article_title": "Peugeot 30082020",
+                  "article_price": "24 000$•994 800грн",
+                  "article_milage": "140 тис. км",
+                  "article_city": "Бердичів",
+                  "article_fuel": "Бензин, 1.6 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_peugeot_3008_35571221.html"
+         },
+         "36906495": {
+                  "article_date_timestamp": 1723921531.0,
+                  "article_title": "Hyundai Sonata2014",
+                  "article_price": "9 500$•393 775грн",
+                  "article_milage": "150 тис. км",
+                  "article_city": "Золочів",
+                  "article_fuel": "Бензин, 2.36 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_hyundai_sonata_36906495.html"
+         },
+         "37056789": {
+                  "article_date_timestamp": 1723922643.0,
+                  "article_title": "Mercedes-Benz Viano2014",
+                  "article_price": "30 800$•1 276 660грн",
+                  "article_milage": "340 тис. км",
+                  "article_city": "Чернівці",
+                  "article_fuel": "Дизель, 2.99 л.",
+                  "article_gearbox": "Типтронік",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_viano_37056789.html"
+         },
+         "36773640": {
+                  "article_date_timestamp": 1723922443.0,
+                  "article_title": "ВАЗ / Lada 21102007",
+                  "article_price": "2 200$•91 190грн",
+                  "article_milage": "165 тис. км",
+                  "article_city": "Мена",
+                  "article_fuel": "Бензин, 1.5 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_vaz_lada_2110_36773640.html"
+         },
+         "37056727": {
+                  "article_date_timestamp": 1723921443.0,
+                  "article_title": "Ford Focus2013",
+                  "article_price": "8 199$•339 848грн",
+                  "article_milage": "217 тис. км",
+                  "article_city": "Стрий",
+                  "article_fuel": "Дизель, 1.6 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_ford_focus_37056727.html"
+         },
+         "36519379": {
+                  "article_date_timestamp": 1723921439.0,
+                  "article_title": "SsangYong Rexton2010",
+                  "article_price": "9 500$•393 775грн",
+                  "article_milage": "207 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 2.7 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_ssangyong_rexton_36519379.html"
+         },
+         "37056647": {
+                  "article_date_timestamp": 1723920026.0,
+                  "article_title": "Kia Soul2009",
+                  "article_price": "7 900$•327 455грн",
+                  "article_milage": "238 тис. км",
+                  "article_city": "Харків",
+                  "article_fuel": "Дизель, 1.58 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_kia_soul_37056647.html"
+         },
+         "36242819": {
+                  "article_date_timestamp": 1723919405.0,
+                  "article_title": "Volkswagen T-Roc2020",
+                  "article_price": "26 800$•1 110 860грн",
+                  "article_milage": "78 тис. км",
+                  "article_city": "Дрогобич",
+                  "article_fuel": "Дизель, 1.97 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_t_roc_36242819.html"
+         },
+         "37056783": {
+                  "article_date_timestamp": 1723922284.0,
+                  "article_title": "Chevrolet Aveo2006",
+                  "article_price": "3 700$•153 365грн",
+                  "article_milage": "189 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 1.5 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_chevrolet_aveo_37056783.html"
+         },
+         "37056726": {
+                  "article_date_timestamp": 1723921705.0,
+                  "article_title": "Hyundai Santa FE2002",
+                  "article_price": "5 000$•207 250грн",
+                  "article_milage": "319 тис. км",
+                  "article_city": "Софіївська Борщагівка",
+                  "article_fuel": "Дизель, 2 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_hyundai_santa_fe_37056726.html"
+         },
+         "36906453": {
+                  "article_date_timestamp": 1723921522.0,
+                  "article_title": "Dacia Logan2011",
+                  "article_price": "5 500$•227 975грн",
+                  "article_milage": "255 тис. км",
+                  "article_city": "Дружківка",
+                  "article_fuel": "Газ пропан-бутан / Бензин, 1.6 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_dacia_logan_36906453.html"
+         },
+         "37056871": {
+                  "article_date_timestamp": 1723923637.0,
+                  "article_title": "BMW 2 Series2022",
+                  "article_price": "68 500$•2 839 325грн",
+                  "article_milage": "1 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 3 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_2_series_37056871.html"
+         },
+         "37056814": {
+                  "article_date_timestamp": 1723922766.0,
+                  "article_title": "Audi Q52016",
+                  "article_price": "16 450$•681 852грн",
+                  "article_milage": "190 тис. км",
+                  "article_city": "Стрий",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_q5_37056814.html"
+         },
+         "37056815": {
+                  "article_date_timestamp": 1723923187.0,
+                  "article_title": "BMW 3 Series2014",
+                  "article_price": "16 500$•683 925грн",
+                  "article_milage": "160 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_3_series_37056815.html"
+         },
+         "36877493": {
+                  "article_date_timestamp": 1723923123.0,
+                  "article_title": "BMW X5 M2011",
+                  "article_price": "28 000$•1 160 600грн",
+                  "article_milage": "222 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 4.39 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_x5_m_36877493.html"
+         },
+         "36576916": {
+                  "article_date_timestamp": 1723923365.0,
+                  "article_title": "BMW 5 Series2018",
+                  "article_price": "31 500$•1 305 675грн",
+                  "article_milage": "155 тис. км",
+                  "article_city": "Ужгород",
+                  "article_fuel": "Дизель, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_5_series_36576916.html"
+         },
+         "37056991": {
+                  "article_date_timestamp": 1723925745.0,
+                  "article_title": "BMW 2 Series2022",
+                  "article_price": "48 500$•2 010 325грн",
+                  "article_milage": "1 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Гібрид (MHEV), 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_2_series_37056991.html"
+         },
+         "37056797": {
+                  "article_date_timestamp": 1723925163.0,
+                  "article_title": "Chevrolet Captiva2012",
+                  "article_price": "10 999$•455 908грн",
+                  "article_milage": "198 тис. км",
+                  "article_city": "Стрий",
+                  "article_fuel": "Дизель, 2.2 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_chevrolet_captiva_37056797.html"
+         },
+         "37056962": {
+                  "article_date_timestamp": 1723924945.0,
+                  "article_title": "Audi e-tron2021",
+                  "article_price": "39 800$•1 649 710грн",
+                  "article_milage": "79 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_e_tron_37056962.html"
+         },
+         "37056811": {
+                  "article_date_timestamp": 1723924423.0,
+                  "article_title": "Land Rover Range Rover2020",
+                  "article_price": "94 950$•3 935 677грн",
+                  "article_milage": "75 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 4.37 л.",
+                  "article_gearbox": "Типтронік",
+                  "article_url": "https://auto.ria.com/uk/auto_land_rover_range_rover_37056811.html"
+         },
+         "37056945": {
+                  "article_date_timestamp": 1723924924.0,
+                  "article_title": "Ford Edge2015",
+                  "article_price": "16 300$•675 635грн",
+                  "article_milage": "85 тис. км",
+                  "article_city": "Дніпро (Дніпропетровськ)",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_ford_edge_37056945.html"
+         },
+         "36770992": {
+                  "article_date_timestamp": 1723925086.0,
+                  "article_title": "Ford Fusion2015",
+                  "article_price": "10 000$•414 500грн",
+                  "article_milage": "250 тис. км",
+                  "article_city": "Луцьк",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_ford_fusion_36770992.html"
+         },
+         "37056879": {
+                  "article_date_timestamp": 1723923868.0,
+                  "article_title": "Chevrolet Captiva2007",
+                  "article_price": "8 800$•364 760грн",
+                  "article_milage": "255 тис. км",
+                  "article_city": "Новий Калинів",
+                  "article_fuel": "Дизель, 2 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_chevrolet_captiva_37056879.html"
+         },
+         "36770972": {
+                  "article_date_timestamp": 1723925085.0,
+                  "article_title": "Skoda Octavia2015",
+                  "article_price": "14 899$•617 563грн",
+                  "article_milage": "240 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 1.97 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_skoda_octavia_36770972.html"
+         },
+         "37056944": {
+                  "article_date_timestamp": 1723924924.0,
+                  "article_title": "Audi Q72016",
+                  "article_price": "27 950$•1 158 527грн",
+                  "article_milage": "202 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Бензин, 3 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_q7_37056944.html"
+         },
+         "36898108": {
+                  "article_date_timestamp": 1723925409.0,
+                  "article_title": "ВАЗ / Lada 2114 Samara2006",
+                  "article_price": "1 250$•51 812грн",
+                  "article_milage": "169 тис. км",
+                  "article_city": "Золотоноша",
+                  "article_fuel": "Бензин, 1.5 л.",
+                  "article_gearbox": "Не вказано",
+                  "article_url": "https://auto.ria.com/uk/auto_vaz_lada_2114_samara_36898108.html"
+         },
+         "37056979": {
+                  "article_date_timestamp": 1723925447.0,
+                  "article_title": "Opel Astra2005",
+                  "article_price": "4 200$•174 090грн",
+                  "article_milage": "244 тис. км",
+                  "article_city": "Дрогобич",
+                  "article_fuel": "Бензин, 1.6 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_opel_astra_37056979.html"
+         },
+         "35522386": {
+                  "article_date_timestamp": 1723924932.0,
+                  "article_title": "Toyota Corolla2010",
+                  "article_price": "7 500$•310 875грн",
+                  "article_milage": "223 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Дизель, 1.4 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_toyota_corolla_35522386.html"
+         },
+         "37056908": {
+                  "article_date_timestamp": 1723924183.0,
+                  "article_title": "Renault Laguna2002",
+                  "article_price": "3 800$•157 510грн",
+                  "article_milage": "262 тис. км",
+                  "article_city": "Хмельницький",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_renault_laguna_37056908.html"
+         },
+         "37056988": {
+                  "article_date_timestamp": 1723925752.0,
+                  "article_title": "ЗАЗ 1102 Таврія1993",
+                  "article_price": "650$•26 942грн",
+                  "article_milage": "130 тис. км",
+                  "article_city": "Кам'янське (Дніпродзержинськ)",
+                  "article_fuel": "Бензин, 1.2 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_zaz_1102_tavriya_37056988.html"
+         },
+         "36624061": {
+                  "article_date_timestamp": 1723925065.0,
+                  "article_title": "Toyota Camry2007",
+                  "article_price": "9 999$•414 458грн",
+                  "article_milage": "197 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Газ метан / Бензин, 2.4 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_toyota_camry_36624061.html"
+         },
+         "37056932": {
+                  "article_date_timestamp": 1723924348.0,
+                  "article_title": "Mitsubishi Colt2011",
+                  "article_price": "6 500$•269 425грн",
+                  "article_milage": "105 тис. км",
+                  "article_city": "Чернівці",
+                  "article_fuel": "Бензин, 1.33 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mitsubishi_colt_37056932.html"
+         },
+         "37056906": {
+                  "article_date_timestamp": 1723924018.0,
+                  "article_title": "Smart Fortwo2007",
+                  "article_price": "4 700$•194 815грн",
+                  "article_milage": "156 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 1 л.",
+                  "article_gearbox": "Робот",
+                  "article_url": "https://auto.ria.com/uk/auto_smart_fortwo_37056906.html"
+         },
+         "36910364": {
+                  "article_date_timestamp": 1723924553.0,
+                  "article_title": "Audi A42017",
+                  "article_price": "23 500$•974 075грн",
+                  "article_milage": "97 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Бензин, 1.98 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_a4_36910364.html"
+         },
+         "37056922": {
+                  "article_date_timestamp": 1723924303.0,
+                  "article_title": "Opel Combo2007",
+                  "article_price": "3 700$•153 365грн",
+                  "article_milage": "248 тис. км",
+                  "article_city": "Вири",
+                  "article_fuel": "Не вказано",
+                  "article_gearbox": "Не вказано",
+                  "article_url": "https://auto.ria.com/uk/auto_opel_combo_37056922.html"
+         },
+         "37058256": {
+                  "article_date_timestamp": 1723972084.0,
+                  "article_title": "Chevrolet Cruze2015",
+                  "article_price": "7 700$•319 088грн",
+                  "article_milage": "185 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Бензин, 1.4 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_chevrolet_cruze_37058256.html"
+         },
+         "37049199": {
+                  "article_date_timestamp": 1723969443.0,
+                  "article_title": "Audi A42020",
+                  "article_price": "26 900$•1 115 005грн",
+                  "article_milage": "106 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_a4_37049199.html"
+         },
+         "37054083": {
+                  "article_date_timestamp": 1723969805.0,
+                  "article_title": "BMW X52016",
+                  "article_price": "29 500$•1 222 775грн",
+                  "article_milage": "135 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 2.98 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_x5_37054083.html"
+         },
+         "37058292": {
+                  "article_date_timestamp": 1723972322.0,
+                  "article_title": "Mercedes-Benz GLS-Class2018",
+                  "article_price": "70 000$•2 900 800грн",
+                  "article_milage": "70 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 2.99 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_gls_class_37058292.html"
+         },
+         "36146887": {
+                  "article_date_timestamp": 1723971885.0,
+                  "article_title": "Audi e-tron Sportback2022",
+                  "article_price": "67 500$•2 797 875грн",
+                  "article_milage": "5 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_audi_e_tron_sportback_36146887.html"
+         },
+         "36923353": {
+                  "article_date_timestamp": 1723971407.0,
+                  "article_title": "Renault Megane2012",
+                  "article_price": "8 700$•360 615грн",
+                  "article_milage": "264 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Дизель, 1.5 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_renault_megane_36923353.html"
+         },
+         "37058196": {
+                  "article_date_timestamp": 1723971080.0,
+                  "article_title": "BMW X52018",
+                  "article_price": "41 500$•1 719 760грн",
+                  "article_milage": "118 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Бензин, 2.98 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_x5_37058196.html"
+         },
+         "36084207": {
+                  "article_date_timestamp": 1723971391.0,
+                  "article_title": "Toyota RAV42018",
+                  "article_price": "26 300$•1 090 135грн",
+                  "article_milage": "117 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Гібрид (HEV), 2.49 л.",
+                  "article_gearbox": "Варіатор",
+                  "article_url": "https://auto.ria.com/uk/auto_toyota_rav4_36084207.html"
+         },
+         "36771078": {
+                  "article_date_timestamp": 1723971902.0,
+                  "article_title": "Mercedes-Benz GLB-Class2020",
+                  "article_price": "39 999$•1 657 958грн",
+                  "article_milage": "37 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Дизель, 1.95 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_glb_class_36771078.html"
+         },
+         "36682226": {
+                  "article_date_timestamp": 1723971124.0,
+                  "article_title": "Volkswagen Touareg2012",
+                  "article_price": "23 200$•961 640грн",
+                  "article_milage": "232 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 4.13 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_touareg_36682226.html"
+         },
+         "35884034": {
+                  "article_date_timestamp": 1723970623.0,
+                  "article_title": "BYD Song Plus2023",
+                  "article_price": "27 900$•1 156 455грн",
+                  "article_milage": "10 тис. км",
+                  "article_city": "Бережани",
+                  "article_fuel": "Електро",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_byd_song_plus_35884034.html"
+         },
+         "36958976": {
+                  "article_date_timestamp": 1723972451.0,
+                  "article_title": "BMW 3 Series2012",
+                  "article_price": "12 500$•518 000грн",
+                  "article_milage": "207 тис. км",
+                  "article_city": "Охтирка",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_3_series_36958976.html"
+         },
+         "36183340": {
+                  "article_date_timestamp": 1723970960.0,
+                  "article_title": "Volkswagen Touareg2007",
+                  "article_price": "10 999$•455 908грн",
+                  "article_milage": "244 тис. км",
+                  "article_city": "Івано-Франківськ",
+                  "article_fuel": "Дизель, 3 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_volkswagen_touareg_36183340.html"
+         },
+         "37058230": {
+                  "article_date_timestamp": 1723971646.0,
+                  "article_title": "Porsche Cayenne2012",
+                  "article_price": "20 800$•862 160грн",
+                  "article_milage": "238 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Дизель, 2.97 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_porsche_cayenne_37058230.html"
+         },
+         "37058297": {
+                  "article_date_timestamp": 1723972478.0,
+                  "article_title": "ВАЗ / Lada 21102011",
+                  "article_price": "2 550$•105 672грн",
+                  "article_milage": "180 тис. км",
+                  "article_city": "Київ",
+                  "article_fuel": "Газ пропан-бутан / Бензин, 1.6 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_vaz_lada_2110_37058297.html"
+         },
+         "37058287": {
+                  "article_date_timestamp": 1723972444.0,
+                  "article_title": "MINI Clubman2016",
+                  "article_price": "14 800$•613 312грн",
+                  "article_milage": "84 тис. км",
+                  "article_city": "Одеса",
+                  "article_fuel": "Бензин, 2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mini_clubman_37058287.html"
+         },
+         "37058110": {
+                  "article_date_timestamp": 1723970168.0,
+                  "article_title": "Mercedes-Benz S-Class1996",
+                  "article_price": "7 777$•322 356грн",
+                  "article_milage": "333 тис. км",
+                  "article_city": "Кам'янець-Подільський",
+                  "article_fuel": "Бензин, 4.2 л.",
+                  "article_gearbox": "Автомат",
+                  "article_url": "https://auto.ria.com/uk/auto_mercedes_benz_s_class_37058110.html"
+         },
+         "37058239": {
+                  "article_date_timestamp": 1723971845.0,
+                  "article_title": "Renault Kangoo2013",
+                  "article_price": "8 300$•344 035грн",
+                  "article_milage": "172 тис. км",
+                  "article_city": "Луцьк",
+                  "article_fuel": "Дизель, 1.5 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_renault_kangoo_37058239.html"
+         },
+         "37058223": {
+                  "article_date_timestamp": 1723971608.0,
+                  "article_title": "BMW 3 Series2002",
+                  "article_price": "3 850$•159 582грн",
+                  "article_milage": "248 тис. км",
+                  "article_city": "Обухів",
+                  "article_fuel": "Бензин, 1.8 л.",
+                  "article_gearbox": "Ручна / Механіка",
+                  "article_url": "https://auto.ria.com/uk/auto_bmw_3_series_37058223.html"
+         },
+         "36506946": {
+                  "article_date_timestamp": 1723971398.0,
+                  "article_title": "Smart Fortwo2001",
+                  "article_price": "2 400$•99 480грн",
+                  "article_milage": "219 тис. км",
+                  "article_city": "Львів",
+                  "article_fuel": "Бензин, 0.6 л.",
+                  "article_gearbox": "Робот",
+                  "article_url": "https://auto.ria.com/uk/auto_smart_fortwo_36506946.html"
          }
 }

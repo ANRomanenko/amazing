@@ -6,6 +6,7 @@ import requests
 
 def get_first_news():
 
+    # Создаём словарь заголовков!
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
         "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
@@ -21,6 +22,7 @@ def get_first_news():
     # with open("habr.html", "w", encoding="utf-8") as file:
     #     file.write(str(data))
 
+    # Создаём словарь для наших статей
     news_dict = {}
     for article in data:
         article_title = article.find("h2", class_="tm-title tm-title_h2").get_text(strip=True)
@@ -28,6 +30,7 @@ def get_first_news():
         article_url = host + article.find("h2", class_="tm-title tm-title_h2").find("a").get("href")
         article_id = article_url.split("/")[-2]
 
+        # Дата и время в ISO формате!
         article_time = article.find("time").get("datetime").replace(".000Z", "")
         date_from_iso = datetime.fromisoformat(article_time)
         date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
@@ -35,6 +38,7 @@ def get_first_news():
 
         # print(f"{article_title} | {article_id} | {article_date_timestamp}")
 
+        # Будем заполнять словарь на каждой итерации, ключами у нас будут айдишники статей а значениями словари с собранными данными!
         news_dict[article_id] = {
             "article_date_timestamp": article_date_timestamp,
             "article_title": article_title,

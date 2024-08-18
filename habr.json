@@ -133,5 +133,150 @@
       "article_date_timestamp": 1723620142.0,
       "article_title": "«МегаФон» проанализировал данные о DDoS‑атаках на своих корпоративных клиентов",
       "article_url": "https://habr.com/ru/news/835976/"
+   },
+   "836592": {
+      "article_date_timestamp": 1723810686.0,
+      "article_title": "Модуль для работы с самозанятыми от R-Style Softlab зарегистрирован в реестре российского ПО",
+      "article_url": "https://habr.com/ru/companies/rshb/news/836592/"
+   },
+   "836600": {
+      "article_date_timestamp": 1723809973.0,
+      "article_title": "Смерть динозавров: это всё-таки был астероид",
+      "article_url": "https://habr.com/ru/news/836600/"
+   },
+   "836580": {
+      "article_date_timestamp": 1723807835.0,
+      "article_title": "СМИ: «Яндекс» начал разрабатывать аналог платформы Miro",
+      "article_url": "https://habr.com/ru/news/836580/"
+   },
+   "836578": {
+      "article_date_timestamp": 1723807476.0,
+      "article_title": "VK Cloud продлевает программу поддержки стартапов",
+      "article_url": "https://habr.com/ru/companies/vk/news/836578/"
+   },
+   "836558": {
+      "article_date_timestamp": 1723799535.0,
+      "article_title": "Самое актуальное из мира ИБ на одной странице: знакомство с Security Center",
+      "article_url": "https://habr.com/ru/companies/selectel/news/836558/"
+   },
+   "836498": {
+      "article_date_timestamp": 1723799420.0,
+      "article_title": "Дайджест продуктовых обновлений за июль: новые конфигурации и собственная ОС",
+      "article_url": "https://habr.com/ru/companies/selectel/news/836498/"
+   },
+   "836538": {
+      "article_date_timestamp": 1723795824.0,
+      "article_title": "«МТС Юрент» представил собственный каргобайк для курьеров",
+      "article_url": "https://habr.com/ru/news/836538/"
+   },
+   "836528": {
+      "article_date_timestamp": 1723793251.0,
+      "article_title": "Специалисты из T-Bank AI Research создали новую архитектуру быстрых языковых моделей",
+      "article_url": "https://habr.com/ru/news/836528/"
+   },
+   "836520": {
+      "article_date_timestamp": 1723792062.0,
+      "article_title": "iVerify: Google Pixel продаются с заводским ПО, которое может использоваться для слежки или удалённого управления",
+      "article_url": "https://habr.com/ru/news/836520/"
+   },
+   "836518": {
+      "article_date_timestamp": 1723791552.0,
+      "article_title": "Эксперты оценили доход YouTube–блогеров после прекращения работы Google AdSense в РФ",
+      "article_url": "https://habr.com/ru/news/836518/"
+   },
+   "836514": {
+      "article_date_timestamp": 1723789697.0,
+      "article_title": "«Ростех» анонсировал «умный» поиск потерянных кошек и собак в Подмосковье",
+      "article_url": "https://habr.com/ru/news/836514/"
+   },
+   "836512": {
+      "article_date_timestamp": 1723789455.0,
+      "article_title": "В Москве запустили Vzhik — сервис краткосрочной аренды электрических мопедов",
+      "article_url": "https://habr.com/ru/news/836512/"
+   },
+   "836304": {
+      "article_date_timestamp": 1723788050.0,
+      "article_title": "Вышло обновление РЕД АДМ Промышленная редакция 1.2",
+      "article_url": "https://habr.com/ru/companies/redsoft/news/836304/"
+   },
+   "836490": {
+      "article_date_timestamp": 1723786916.0,
+      "article_title": "Activision сокращает размеры загружаемых файлов для игр Call of Duty",
+      "article_url": "https://habr.com/ru/news/836490/"
+   },
+   "836470": {
+      "article_date_timestamp": 1723784196.0,
+      "article_title": "Приложение «VK Видео» стало доступно на iPad",
+      "article_url": "https://habr.com/ru/news/836470/"
+   },
+   "836462": {
+      "article_date_timestamp": 1723782435.0,
+      "article_title": "PVS-Studio 7.32: оптимизация анализа, новые плагины и многое другое",
+      "article_url": "https://habr.com/ru/companies/pvs-studio/news/836462/"
+   },
+   "836454": {
+      "article_date_timestamp": 1723781702.0,
+      "article_title": "Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.4.0",
+      "article_url": "https://habr.com/ru/news/836454/"
+   },
+   "836452": {
+      "article_date_timestamp": 1723780336.0,
+      "article_title": "«Ъ»: официальные поставки иностранных процессоров в РФ продолжают сокращаться",
+      "article_url": "https://habr.com/ru/news/836452/"
+   },
+   "836448": {
+      "article_date_timestamp": 1723779455.0,
+      "article_title": "В реализации IPv6 в Windows обнаружили уязвимость для удалённого заражения ПК",
+      "article_url": "https://habr.com/ru/news/836448/"
+   },
+   "836442": {
+      "article_date_timestamp": 1723778406.0,
+      "article_title": "Сервис Apple Search Ads больше недоступен для аккаунтов из РФ и Беларуси, активные аккаунты уже остановили",
+      "article_url": "https://habr.com/ru/news/836442/"
+   },
+   "836694": {
+      "article_date_timestamp": 1723881204.0,
+      "article_title": "Всё, что вы хотели знать про Apple Vision Pro, очередной спор про права на данные для ИИ: дайджест новостей",
+      "article_url": "https://habr.com/ru/companies/onlinepatent/news/836694/"
+   },
+   "836692": {
+      "article_date_timestamp": 1723881122.0,
+      "article_title": "Водительские права и удостоверения личности штата в Apple Wallet скоро появятся в Калифорнии",
+      "article_url": "https://habr.com/ru/news/836692/"
+   },
+   "836676": {
+      "article_date_timestamp": 1723875242.0,
+      "article_title": "Steam начинает взимать 30% налог с российских разработчиков",
+      "article_url": "https://habr.com/ru/news/836676/"
+   },
+   "836674": {
+      "article_date_timestamp": 1723872974.0,
+      "article_title": "Google решили, что уйти домой пораньше и work-life balance, это важнее, чем выигрывать/делать хорошие продукты",
+      "article_url": "https://habr.com/ru/news/836674/"
+   },
+   "836666": {
+      "article_date_timestamp": 1723869458.0,
+      "article_title": "AT&T и Verizon заявили о помехах со стороны Starlink наземным мобильным сетям",
+      "article_url": "https://habr.com/ru/news/836666/"
+   },
+   "836662": {
+      "article_date_timestamp": 1723868251.0,
+      "article_title": "Tesla представила холодильник для Cybertruck за $700",
+      "article_url": "https://habr.com/ru/news/836662/"
+   },
+   "836660": {
+      "article_date_timestamp": 1723867042.0,
+      "article_title": "Приложения Office начали выдавать сбой при проверке орфографии",
+      "article_url": "https://habr.com/ru/news/836660/"
+   },
+   "836652": {
+      "article_date_timestamp": 1723862206.0,
+      "article_title": "Вход в веб-версию приложения «СберБанк Онлайн» стал доступен с помощью пятизначного цифрового кода",
+      "article_url": "https://habr.com/ru/news/836652/"
+   },
+   "836650": {
+      "article_date_timestamp": 1723861103.0,
+      "article_title": "Google угрожала исключить инфлюенсеров из Pixel Team, если в обзорах Pixel 9 те бы отдавали предпочтение другим гаджетам",
+      "article_url": "https://habr.com/ru/news/836650/"
    }
 }
