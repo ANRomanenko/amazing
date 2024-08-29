@@ -1,117 +1,107 @@
 {
-   "836764": {
-      "article_date_timestamp": 1723948622.0,
-      "article_title": "В МТИ представили батареи меньше песчинки для питания микророботов",
-      "article_url": "https://habr.com/ru/news/836764/"
+   "837802": {
+      "article_date_timestamp": 1724311487.0,
+      "article_title": "Boeing остановила лётные испытания 777X из-за повреждённой опоры двигателя",
+      "article_url": "https://habr.com/ru/news/837802/"
    },
-   "836758": {
-      "article_date_timestamp": 1723946851.0,
-      "article_title": "Семья из Британии отравилась грибами, купив пособие для начинающих грибников, не зная, что книгу написала нейросеть",
-      "article_url": "https://habr.com/ru/news/836758/"
+   "837798": {
+      "article_date_timestamp": 1724310917.0,
+      "article_title": "В России появится ещё один дизайн-центр для тестирования микросхем",
+      "article_url": "https://habr.com/ru/news/837798/"
    },
-   "836744": {
-      "article_date_timestamp": 1723902411.0,
-      "article_title": "Открылась регистрация на конкурс по открытому системному ПО Open OS Challenge 2024 с призовым фондом в 1 млн рублей",
-      "article_url": "https://habr.com/ru/news/836744/"
+   "837794": {
+      "article_date_timestamp": 1724309915.0,
+      "article_title": "VK Education открыла набор на бесплатные курсы по разработке, ИИ, анализу данных и инфобезопасности",
+      "article_url": "https://habr.com/ru/news/837794/"
    },
-   "836742": {
-      "article_date_timestamp": 1723900577.0,
-      "article_title": "RuTube: за сутки в сервисе появляются 15 тыс. новых блогеров и авторов контента и переносятся 242 тыс. видео из YouTube",
-      "article_url": "https://habr.com/ru/news/836742/"
+   "837784": {
+      "article_date_timestamp": 1724308388.0,
+      "article_title": "Нейросети помогли «Яндексу» заблокировать 197 тыс. рекламных аккаунтов мошенников за полгода",
+      "article_url": "https://habr.com/ru/news/837784/"
    },
-   "836694": {
-      "article_date_timestamp": 1723881204.0,
-      "article_title": "Всё, что вы хотели знать про Apple Vision Pro, очередной спор про права на данные для ИИ: дайджест новостей",
-      "article_url": "https://habr.com/ru/companies/onlinepatent/news/836694/"
+   "837782": {
+      "article_date_timestamp": 1724307864.0,
+      "article_title": "VK расширила охват CDN-сети в связи с ростом популярности сервиса «VK Видео»",
+      "article_url": "https://habr.com/ru/news/837782/"
    },
-   "836692": {
-      "article_date_timestamp": 1723881122.0,
-      "article_title": "Водительские права и удостоверения личности штата в Apple Wallet скоро появятся в Калифорнии",
-      "article_url": "https://habr.com/ru/news/836692/"
+   "837764": {
+      "article_date_timestamp": 1724306237.0,
+      "article_title": "Доступ к данным пользователя в закрытом канале Slack можно получить благодаря манипуляциям с ИИ",
+      "article_url": "https://habr.com/ru/news/837764/"
    },
-   "836676": {
-      "article_date_timestamp": 1723875242.0,
-      "article_title": "Steam начинает взимать 30% налог с российских разработчиков",
-      "article_url": "https://habr.com/ru/news/836676/"
+   "837766": {
+      "article_date_timestamp": 1724305265.0,
+      "article_title": "Мошенники стали отправлять фишинговые письма жертвам через их коллег",
+      "article_url": "https://habr.com/ru/news/837766/"
    },
-   "836674": {
-      "article_date_timestamp": 1723872974.0,
-      "article_title": "Google решили, что уйти домой пораньше и work-life balance, это важнее, чем выигрывать/делать хорошие продукты",
-      "article_url": "https://habr.com/ru/news/836674/"
+   "837758": {
+      "article_date_timestamp": 1724305032.0,
+      "article_title": "Сервис «QIWI Кошелёк» переехал на новый домен",
+      "article_url": "https://habr.com/ru/news/837758/"
    },
-   "836666": {
-      "article_date_timestamp": 1723869458.0,
-      "article_title": "AT&T и Verizon заявили о помехах со стороны Starlink наземным мобильным сетям",
-      "article_url": "https://habr.com/ru/news/836666/"
+   "837754": {
+      "article_date_timestamp": 1724303821.0,
+      "article_title": "Tesla снова отменила положение о запрете перепродаж первых Cybertruck",
+      "article_url": "https://habr.com/ru/news/837754/"
    },
-   "836662": {
-      "article_date_timestamp": 1723868251.0,
-      "article_title": "Tesla представила холодильник для Cybertruck за $700",
-      "article_url": "https://habr.com/ru/news/836662/"
+   "837756": {
+      "article_date_timestamp": 1724303431.0,
+      "article_title": "IT-стартап Slider AI внедрил в свой продукт нейросетевую модель GigaChat",
+      "article_url": "https://habr.com/ru/news/837756/"
    },
-   "836660": {
-      "article_date_timestamp": 1723867042.0,
-      "article_title": "Приложения Office начали выдавать сбой при проверке орфографии",
-      "article_url": "https://habr.com/ru/news/836660/"
+   "837748": {
+      "article_date_timestamp": 1724302660.0,
+      "article_title": "Коммерческая ракета взорвалась во время испытаний на космодроме в Шотландии",
+      "article_url": "https://habr.com/ru/news/837748/"
    },
-   "836652": {
-      "article_date_timestamp": 1723862206.0,
-      "article_title": "Вход в веб-версию приложения «СберБанк Онлайн» стал доступен с помощью пятизначного цифрового кода",
-      "article_url": "https://habr.com/ru/news/836652/"
+   "837750": {
+      "article_date_timestamp": 1724302193.0,
+      "article_title": "Кто такой Майкл Линч и почему его называли «британским Биллом Гейтсом»",
+      "article_url": "https://habr.com/ru/companies/onlinepatent/news/837750/"
    },
-   "836650": {
-      "article_date_timestamp": 1723861103.0,
-      "article_title": "Google угрожала исключить инфлюенсеров из Pixel Team, если в обзорах Pixel 9 те бы отдавали предпочтение другим гаджетам",
-      "article_url": "https://habr.com/ru/news/836650/"
+   "837742": {
+      "article_date_timestamp": 1724301453.0,
+      "article_title": "Второй пациент с чипом Neuralink смог сыграть в CS2 силой мысли на второй день после операции",
+      "article_url": "https://habr.com/ru/news/837742/"
    },
-   "836592": {
-      "article_date_timestamp": 1723810686.0,
-      "article_title": "Модуль для работы с самозанятыми от R-Style Softlab зарегистрирован в реестре российского ПО",
-      "article_url": "https://habr.com/ru/companies/rshb/news/836592/"
+   "837738": {
+      "article_date_timestamp": 1724300125.0,
+      "article_title": "Американца приговорили к 81 месяцу тюрьмы за кражу личных данных и инсценировку собственной смерти",
+      "article_url": "https://habr.com/ru/news/837738/"
    },
-   "836600": {
-      "article_date_timestamp": 1723809973.0,
-      "article_title": "Смерть динозавров: это всё-таки был астероид",
-      "article_url": "https://habr.com/ru/news/836600/"
+   "837638": {
+      "article_date_timestamp": 1724299224.0,
+      "article_title": "За кулисами DevOps: вышел новый Sravni Podcast",
+      "article_url": "https://habr.com/ru/companies/sravni/news/837638/"
    },
-   "836580": {
-      "article_date_timestamp": 1723807835.0,
-      "article_title": "СМИ: «Яндекс» начал разрабатывать аналог платформы Miro",
-      "article_url": "https://habr.com/ru/news/836580/"
+   "837726": {
+      "article_date_timestamp": 1724298178.0,
+      "article_title": "В «Лаборатории Касперского» подтвердили усиление в этом году DDoS-атак на операторов связи РФ",
+      "article_url": "https://habr.com/ru/news/837726/"
    },
-   "836578": {
-      "article_date_timestamp": 1723807476.0,
-      "article_title": "VK Cloud продлевает программу поддержки стартапов",
-      "article_url": "https://habr.com/ru/companies/vk/news/836578/"
+   "837722": {
+      "article_date_timestamp": 1724297202.0,
+      "article_title": "Lingo Telecom согласилась заплатить $1 млн для урегулирования иска регулятора связи за пропуск фейкового робозвонка",
+      "article_url": "https://habr.com/ru/news/837722/"
    },
-   "836822": {
-      "article_date_timestamp": 1723981002.0,
-      "article_title": "77 % работников сообщают, что ИИ увеличил рабочую нагрузку и снизил эффективность труда",
-      "article_url": "https://habr.com/ru/news/836822/"
+   "837640": {
+      "article_date_timestamp": 1724296515.0,
+      "article_title": "«Цифра» запустила Учебный центр для клиентов и интеграторов",
+      "article_url": "https://habr.com/ru/companies/zyfra/news/837640/"
    },
-   "836770": {
-      "article_date_timestamp": 1723951029.0,
-      "article_title": "С 12 сентября пользователи из РФ лишатся доступа к ПО для маркетологов Hubspot",
-      "article_url": "https://habr.com/ru/news/836770/"
+   "837718": {
+      "article_date_timestamp": 1724295733.0,
+      "article_title": "Вышел Chrome 128",
+      "article_url": "https://habr.com/ru/news/837718/"
    },
-   "836772": {
-      "article_date_timestamp": 1723950069.0,
-      "article_title": "В МАИ разработали прототип модульного пауэрбанка с альтернативными способами зарядки",
-      "article_url": "https://habr.com/ru/news/836772/"
+   "837680": {
+      "article_date_timestamp": 1724295609.0,
+      "article_title": "Альтернатива есть! 20+ российских ИТ-продуктов на выставке Tech2b Conf 3 сентября",
+      "article_url": "https://habr.com/ru/companies/k2tech/news/837680/"
    },
-   "836768": {
-      "article_date_timestamp": 1723949825.0,
-      "article_title": "Microsoft добавила в Windows 11 новые настройки режима электропитания",
-      "article_url": "https://habr.com/ru/news/836768/"
-   },
-   "836808": {
-      "article_date_timestamp": 1723975365.0,
-      "article_title": "«Роскосмос»: у американских коллег на МКС проблемы со Starliner, они не знают, как спустить экипаж",
-      "article_url": "https://habr.com/ru/news/836808/"
-   },
-   "836798": {
-      "article_date_timestamp": 1723971267.0,
-      "article_title": "Разработчик трилогии Grand Theft Auto объяснил, почему из San Andreas исчез мусор",
-      "article_url": "https://habr.com/ru/news/836798/"
+   "837810": {
+      "article_date_timestamp": 1724312756.0,
+      "article_title": "Мессенджер «Сферум» запустит новую интерактивную доску для школ к началу учебного года",
+      "article_url": "https://habr.com/ru/news/837810/"
    }
 }

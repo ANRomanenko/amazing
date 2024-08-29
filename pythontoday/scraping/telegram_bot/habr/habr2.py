@@ -1,12 +1,12 @@
-import time
-from datetime import datetime
 import json
 import requests
+import time
 from bs4 import BeautifulSoup
+from datetime import datetime
+
 
 def get_first_news():
 
-    # Создаём словарь заголовков!
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
         "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
@@ -17,6 +17,7 @@ def get_first_news():
 
     r = requests.get(url=url, headers=headers)
     soup = BeautifulSoup(r.text, "lxml")
+
     data = soup.find_all("div", class_="tm-article-snippet tm-article-snippet")
 
     news_dict = {}
@@ -39,6 +40,7 @@ def get_first_news():
             "article_url": article_url
         }
 
+
     with open("habr_2.json", "w", encoding="utf-8") as file:
         json.dump(news_dict, file, indent=3, ensure_ascii=False)
 
@@ -56,6 +58,7 @@ def check_news_update():
 
     r = requests.get(url=url, headers=headers)
     soup = BeautifulSoup(r.text, "lxml")
+
     data = soup.find_all("div", class_="tm-article-snippet tm-article-snippet")
 
     fresh_news = {}
@@ -89,12 +92,13 @@ def check_news_update():
 
     with open("habr_2.json", "w", encoding="utf-8") as file:
         json.dump(news_dict, file, indent=3, ensure_ascii=False)
-
+    
     return fresh_news
+
 
 def main():
     # get_first_news()
     print(check_news_update())
 
 if __name__ == "__main__":
-    main()       
+    main()
