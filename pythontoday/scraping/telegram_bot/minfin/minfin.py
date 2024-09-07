@@ -1,8 +1,8 @@
+import time
+from datetime import datetime
 import json
 import requests
-import time
 from bs4 import BeautifulSoup
-from datetime import datetime
 
 def get_first_news():
     
@@ -21,6 +21,7 @@ def get_first_news():
     news_dict = {}
     for item in data:
         try:
+            item_title = item.find("span", class_="link").get_text(strip=True)
             item_time = item.find("span", class_="data").get("content")
             date_from_iso = datetime.fromisoformat(item_time)
             date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
@@ -33,11 +34,12 @@ def get_first_news():
         
         news_dict[item_id] = {
             "item_date_timestamp": item_date_timestamp,
+            "item_title": item_title,
             "item_url": item_url
         }
         # print(f"{item_date_timestamp} | {item_id}")
     with open("minfin.json", "w", encoding="utf-8") as file:
-        json.dump(news_dict, file, indent=2, ensure_ascii=False)
+        json.dump(news_dict, file, indent=3, ensure_ascii=False)
 
 
 def check_news_update():
@@ -67,6 +69,7 @@ def check_news_update():
             continue
         else:
             try:
+                item_title = item.find("span", class_="link").get_text(strip=True)
                 item_time = item.find("span", class_="data").get("content")
                 date_from_iso = datetime.fromisoformat(item_time)
                 date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
@@ -76,16 +79,18 @@ def check_news_update():
 
             news_dict[item_id] = {
                 "item_date_timestamp": item_date_timestamp,
+                "item_title": item_title,
                 "item_url": item_url
             }
 
             fresh_news[item_id] = {
                 "item_date_timestamp": item_date_timestamp,
+                "item_title": item_title,
                 "item_url": item_url
             }
 
     with open("minfin.json", "w", encoding="utf-8") as file:
-        json.dump(news_dict, file, indent=2, ensure_ascii=False)
+        json.dump(news_dict, file, indent=3, ensure_ascii=False)
 
     return fresh_news
 
