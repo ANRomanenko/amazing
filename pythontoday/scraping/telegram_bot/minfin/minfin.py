@@ -22,6 +22,7 @@ def get_first_news():
     for item in data:
         try:
             item_title = item.find("span", class_="link").get_text(strip=True)
+            
             item_time = item.find("span", class_="data").get("content")
             date_from_iso = datetime.fromisoformat(item_time)
             date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
