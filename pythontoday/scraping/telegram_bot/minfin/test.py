@@ -1,12 +1,36 @@
-import json
+# for i in range(5):
+#     print('Your name number: ('+ str(i) + ')')
 
-with open("minfin2.json", encoding="utf8") as f:
-    news_dict = json.load(f)
+# while True:
+#     print("Who are you?")
+#     name = input()
+#     if name != "Joe":
+#         continue
+#     print("Hello, Joe. What is the password? (It is a fish)")
+#     password = input()
+#     if password == "swordfish":
+#         break
+# print("Access granted")
 
-article_id = "1360799699"
+# name = ""
 
-if article_id in news_dict:
-    print("Пропускаем новость так как она есть")
+# while not name:
+#     print("Enter your name:")
+#     name = input()
+# print("How many guests will you have?")
+# numOfGuests = int(input())
+# if numOfGuests:
+#     print('Be sure to have')
+# print('Done') 
 
-else:
-    print("Такой новости нет добавляем!")
+while True:
+    print("Who are Joe")
+    name = input()
+    if name != 'Joe':
+        continue
+    print('Hello Joe. What is the password?')
+    password = input()
+    if password == "swordfish":
+        break
+
+print("Acces granted")
