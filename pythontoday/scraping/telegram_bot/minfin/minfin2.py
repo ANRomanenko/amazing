@@ -1,8 +1,8 @@
+import requests
 import json
 import time
-from datetime import datetime
-import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 def get_first_news():
 
@@ -23,7 +23,7 @@ def get_first_news():
         for item in data:
             try:
                 item_title = item.find("span", class_="link").get_text(strip=True)
-                
+
                 item_time = item.find("span", class_="data").get("content")
                 date_from_iso = datetime.fromisoformat(item_time)
                 date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
@@ -31,25 +31,19 @@ def get_first_news():
 
                 item_url = host + item.find('a').get('href')
                 item_id = item_url.split('/')[-2]
+
             except AttributeError:
                 continue
-                
+
+            # print(f"{item_date_timestamp}")
             news_dict[item_id] = {
                 "item_date_timestamp": item_date_timestamp,
                 "item_title": item_title,
-                "item_url": item_url             
+                "item_url": item_url
             }
-            # print(f"{item_date_timestamp}")
-
-        # with open("minfin.html", "w", encoding="utf-8") as file:
-        #     file.write(str(data))
-
-    else:
-        print("Ошибка соединения!")
 
     with open("minfin2.json", "w", encoding="utf-8") as file:
         json.dump(news_dict, file, indent=3, ensure_ascii=False)
-
 
 def check_news_update():
     with open("minfin2.json", encoding="utf-8") as file:
@@ -80,7 +74,7 @@ def check_news_update():
             else:
                 try:
                     item_title = item.find("span", class_="link").get_text(strip=True)
-                    
+
                     item_time = item.find("span", class_="data").get("content")
                     date_from_iso = datetime.fromisoformat(item_time)
                     date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
@@ -100,9 +94,6 @@ def check_news_update():
                     "item_url": item_url
                 }
 
-    else:
-        print("Ошибка соединения!")
-    
     with open("minfin2.json", "w", encoding="utf-8") as file:
         json.dump(news_dict, file, indent=3, ensure_ascii=False)
 

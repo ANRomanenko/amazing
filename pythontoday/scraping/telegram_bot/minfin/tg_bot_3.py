@@ -24,20 +24,20 @@ async def get_all_news(message: types.Message):
     with open("minfin2.json", encoding="utf-8") as f:
         news_dict = json.load(f)
 
-        for k, v in sorted(news_dict.items()):
-            news = f"{hbold(datetime.datetime.fromtimestamp(v['item_date_timestamp']))}\n" \
-                   f"{hlink(v['item_title'], v['item_url'])}"
-            await message.answer(news)
+    for k, v in sorted(news_dict.items()):
+        news = f"{hbold(datetime.datetime.fromtimestamp(v['item_date_timestamp']))}\n" \
+               f"{hlink(v['item_title'], v['item_url'])}"
+        await message.answer(news)
 
 @dp.message_handler(Text(equals='Последние 5 новостей'))
 async def get_last_five_news(message: types.Message):
     with open("minfin2.json", encoding="utf-8") as f:
         news_dict = json.load(f)
 
-        for k, v in sorted(news_dict.items())[-5:]:
-            news = f"{hbold(datetime.datetime.fromtimestamp(v['item_date_timestamp']))}\n" \
-                   f"{hlink(v['item_title'], v['item_url'])}"
-            await message.answer(news)
+    for k, v in sorted(news_dict.items())[-5:]:
+        news = f"{hbold(datetime.datetime.fromtimestamp(v['item_date_timestamp']))}\n" \
+                f"{hlink(v['item_title'], v['item_url'])}"
+        await message.answer(news)
 
 @dp.message_handler(Text(equals='Свежие новости'))
 async def get_fresh_news(message: types.Message):
