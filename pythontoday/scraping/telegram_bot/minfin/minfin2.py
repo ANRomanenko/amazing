@@ -16,7 +16,9 @@ def get_first_news():
 
     r = requests.get(url=url, headers=headers)
     if r.status_code == 200:
-        print("Статус првоерки прошёл успешно!")
+        soup = BeautifulSoup(r.text, "lxml")
+        data = soup.find_all("li", class_="item")
+        print(data)
 
 
 def main():
