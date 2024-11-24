@@ -1,6 +1,6 @@
 import json
 import time
-from datetime import datetime
+from datetime import time
 import requests
 from bs4 import BeautifulSoup
 
@@ -16,27 +16,7 @@ def get_first_news():
 
     r = requests.get(url=url, headers=headers)
     if r.status_code == 200:
-       soup = BeautifulSoup(r.text, "lxml")
-       data = soup.find_all('li', class_="item")
-
-       news_dict = {}
-       for item in data:
-            try:
-                item_title = item.find("span", class_="link").get_text(strip=True)
-            
-                item_time = item.find("span", class_="data").get("content")
-                date_from_iso = datetime.fromisoformat(item_time)
-                date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
-                item_date_timestamp = time.mktime(datetime.strptime(date_time, "%Y-%m-%d %H:%M:%S").timetuple())
-
-                item_url = host + item.find('a').get('href')
-                item_id = item_url.split('/')[-2]
-            except AttributeError:
-               continue
-           
-            news_dict[item_id] = {
-                "item_date_timestamp": item_date_timestamp
-            }
+        print("Статус првоерки прошёл успешно!")
 
 
 def main():
